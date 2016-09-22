@@ -1,0 +1,2 @@
+# macduff_bin
+general
